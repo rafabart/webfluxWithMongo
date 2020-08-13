@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://adminMongo:12qwaszx@restwebflux.ixcdp.mongodb.net/restWebflux?retryWrites=true&w=majority
